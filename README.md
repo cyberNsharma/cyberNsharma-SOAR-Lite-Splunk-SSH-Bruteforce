@@ -90,6 +90,7 @@ This reflects SOC analyst communication and response workflow.
 - `soar_ssh.py` – Python SOAR-lite automation script
 - `SOAR-Lite-SSH-Bruteforce-Report.pdf` – SOC-style investigation report
 - `screenshots/` – Evidence of detection, automation, and enrichment
+- `.csv file` - file that is taken from Splunk
 
 ---
 
